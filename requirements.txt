@@ -1,0 +1,10 @@
+PyGitHub
+pandas
+requests
+radon
+pylint
+textblob
+python-dotenv
+streamlit
+flake8
+ollama
