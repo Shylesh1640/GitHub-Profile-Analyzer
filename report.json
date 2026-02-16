@@ -1,0 +1,1337 @@
+{
+  "username": "Shylesh1640",
+  "profile_url": "https://github.com/Shylesh1640",
+  "analyzed_at": "2026-02-15T22:20:42.370676",
+  "total_repos_analyzed": 45,
+  "primary_language": "Python",
+  "languages_detected": [
+    null,
+    "Python",
+    "TypeScript",
+    "Java",
+    "Jupyter Notebook",
+    "HTML",
+    "JavaScript"
+  ],
+  "repositories": [
+    {
+      "repo_name": "-Google-Play-Store-Dataset",
+      "repo_url": "https://github.com/Shylesh1640/-Google-Play-Store-Dataset",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "description": "Data Cleaning & EDA on Google Play Store Data",
+      "composite_score": 35,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 20,
+        "readme": 30,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 106,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "README lacks depth"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "ai-voice-detecto",
+      "repo_url": "https://github.com/Shylesh1640/ai-voice-detecto",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": "AI vs Human Voice Detection API",
+      "composite_score": 49,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 20,
+        "readme": 40,
+        "project_value": 2,
+        "deployability": 90,
+        "complexity": 117,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "AQI_Monitoring_System",
+      "repo_url": "https://github.com/Shylesh1640/AQI_Monitoring_System",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 38,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 72,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 117,
+        "security": 80
+      },
+      "strengths": [
+        "Clear and concise project description",
+        "Detailed explanation of features",
+        "Use of popular libraries like Streamlit, Plotly, Geopandas, and WAQI API",
+        "Inclusion of real-time data fetching, state-level aggregation, interactive map, auto-refresh, light/dark theme support, and a Streamlit metrics dashboard",
+        "Well-structured README"
+      ],
+      "weaknesses": [
+        "No mention of testing processes or version control",
+        "Lack of documentation on how to run the project locally",
+        "No information about the team or individual responsible for the project",
+        "No details provided about potential future improvements or scalability",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Aquascan",
+      "repo_url": "https://github.com/Shylesh1640/Aquascan",
+      "language": "HTML",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 42,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 40,
+        "readme": 77,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Clear and concise project description",
+        "Well-structured README with sections for Overview, Key Features, Tech Stack, Project Setup Guide",
+        "Comprehensive tech stack information including frontend, backend, ML models, database, deployment, and other technologies",
+        "Detailed explanation of key features and their benefits to fishermen, researchers, and policymakers",
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "No clear indication of the current status or stage of development of the project",
+        "Lack of information about the team behind the project or contact details for collaboration or inquiries",
+        "No documentation on how to set up and run the backend, ML models, or databases"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Autonomous-AI-Agent",
+      "repo_url": "https://github.com/Shylesh1640/Autonomous-AI-Agent",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 53,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 80,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 100,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Bootstrap-Portfolio-",
+      "repo_url": "https://github.com/Shylesh1640/Bootstrap-Portfolio-",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 24,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "chatbot_ML",
+      "repo_url": "https://github.com/Shylesh1640/chatbot_ML",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 29,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 0,
+        "project_value": 2,
+        "deployability": 20,
+        "complexity": 110,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "README lacks depth",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Credit-Card-Fraud-Detection-Using-Machine-Learning",
+      "repo_url": "https://github.com/Shylesh1640/Credit-Card-Fraud-Detection-Using-Machine-Learning",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 24,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Django-Project",
+      "repo_url": "https://github.com/Shylesh1640/Django-Project",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 40,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 20,
+        "readme": 77,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The README provides a clear overview of the project",
+        "Includes a demo for visual understanding",
+        "Detailed explanation of the project structure",
+        "Lists the features offered by the application",
+        "Provides step-by-step setup instructions",
+        "Lists the required dependencies",
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "The README could benefit from more detailed information about the technology stack used (beyond just Django)",
+        "It would be helpful to include information on how to contribute to the project or report issues",
+        "There's no mention of testing framework or documentation tools"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "facebook-signup",
+      "repo_url": "https://github.com/Shylesh1640/facebook-signup",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 22,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 0,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "README lacks depth",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Fake-News-Detection-Model",
+      "repo_url": "https://github.com/Shylesh1640/Fake-News-Detection-Model",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": "Build a Fake News Detection Model using Machine Learning for my AIML intern in BrainWave Matrix Solution",
+      "composite_score": 29,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 47,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The README provides a clear project title and purpose.",
+        "There are links to relevant resources for further reading.",
+        "The project scope is defined, focusing on creating a fake news detection model."
+      ],
+      "weaknesses": [
+        "Lack of specific details about the technology stack or programming languages used.",
+        "No clear instructions on how to get started with the project or required setup.",
+        "No expected timeline or milestones for the project completion.",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "FastAPI-app",
+      "repo_url": "https://github.com/Shylesh1640/FastAPI-app",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 40,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 80,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 126,
+        "security": 80
+      },
+      "strengths": [
+        "The README is clear and easy to understand for someone familiar with FastAPI and Python.",
+        "It provides a comprehensive list of requirements, installation instructions, and running the application steps.",
+        "The documentation includes detailed descriptions of all API endpoints, their expected input/output, and examples using curl.",
+        "Interactive documentation links (Swagger UI and Redoc) are provided for easy reference."
+      ],
+      "weaknesses": [
+        "There's no information about the project's purpose, scope, or contributor details.",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "fastapi-todo",
+      "repo_url": "https://github.com/Shylesh1640/fastapi-todo",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 36,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 20,
+        "readme": 0,
+        "project_value": 2,
+        "deployability": 20,
+        "complexity": 114,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "README lacks depth"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "GitHub-Profile-Analyzer",
+      "repo_url": "https://github.com/Shylesh1640/GitHub-Profile-Analyzer",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "description": null,
+      "composite_score": 35,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 70,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 0,
+        "deployability": 20,
+        "complexity": 96,
+        "security": 80
+      },
+      "strengths": [
+        "Structured project layout (src)"
+      ],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "HAIR-CUT",
+      "repo_url": "https://github.com/Shylesh1640/HAIR-CUT",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 44,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 80,
+        "testing_ci": 0,
+        "readme": 82,
+        "project_value": 2,
+        "deployability": 20,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Structured project layout (src)",
+        "Clear and comprehensive description of the project",
+        "Detailed list of features that are easy to understand",
+        "Well-structured setup instructions with tips",
+        "Includes database setup guide using Supabase"
+      ],
+      "weaknesses": [
+        "Lack of documentation on how to handle user authentication outside of the Supabase dashboard",
+        "No information provided about testing or debugging the application",
+        "Missing details about system requirements (e.g., required versions of Node, npm, etc.)",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "House-Prices---Advanced-Regression-Techniques",
+      "repo_url": "https://github.com/Shylesh1640/House-Prices---Advanced-Regression-Techniques",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "description": null,
+      "composite_score": 35,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 20,
+        "readme": 15,
+        "project_value": 6,
+        "deployability": 0,
+        "complexity": 126,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Image-Classification-Model",
+      "repo_url": "https://github.com/Shylesh1640/Image-Classification-Model",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 47,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 70,
+        "testing_ci": 0,
+        "readme": 82,
+        "project_value": 4,
+        "deployability": 20,
+        "complexity": 116,
+        "security": 80
+      },
+      "strengths": [
+        "Structured project layout (src)",
+        "The README provides a clear project overview and objectives.",
+        "It includes a comprehensive directory structure that demonstrates good organization.",
+        "The project implements both traditional ML concepts and deep learning approaches.",
+        "It offers a step-by-step usage guide, making it easy for others to get started."
+      ],
+      "weaknesses": [
+        "The dataset section is incomplete. It would be beneficial to include information about the dataset used, its size, and a link to access it.",
+        "There's no mention of model evaluation metrics. Including these details will help others understand the performance of the model.",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "improve-skill-in-git-hub",
+      "repo_url": "https://github.com/Shylesh1640/improve-skill-in-git-hub",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "description": "My clone repository",
+      "composite_score": 44,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 40,
+        "readme": 72,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The content is well-structured and easy to follow.",
+        "It provides a clear introduction to the course topic.",
+        "It includes links to external resources for further explanation.",
+        "It suggests using branches, which is a good practice in version control.",
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "The content lacks detailed instructions on how to perform each step.",
+        "There's no explicit mention of the prerequisites or required skills for the course.",
+        "It could benefit from more interactive elements like code snippets or exercises."
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "intuitive-synergy",
+      "repo_url": "https://github.com/Shylesh1640/intuitive-synergy",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 43,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 80,
+        "testing_ci": 0,
+        "readme": 77,
+        "project_value": 4,
+        "deployability": 20,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Structured project layout (src)",
+        "The README provides clear instructions on how to edit the code, using multiple methods such as Lovable, preferred IDE, direct GitHub editing, and GitHub Codespaces.",
+        "It specifies the technologies used in the project (Vite, TypeScript, React, Shadcn-UI, Tailwind CSS) which gives developers an idea of the project's stack.",
+        "The README provides a clear deployment process, including how to deploy using Lovable and manually."
+      ],
+      "weaknesses": [
+        "There is no mention of testing frameworks or version control strategies, which could be important for a production-ready codebase.",
+        "The section about custom domains states they don't support it (yet), but it would be helpful to know when they plan to add this feature.",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "java-gui-learning",
+      "repo_url": "https://github.com/Shylesh1640/java-gui-learning",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 36,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 0,
+        "readme": 77,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Clear and concise structure",
+        "Well-organized Table of Contents",
+        "Usage of code badges for clarity",
+        "Detailed getting started guide",
+        "Comprehensive list of examples"
+      ],
+      "weaknesses": [
+        "Lacks explicit mention of the technical depth (Java Swing concepts, best practices)",
+        "No clear indication of the latest version or last update of the repository",
+        "Missing information about prerequisites to run and test the examples",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Java-Learning",
+      "repo_url": "https://github.com/Shylesh1640/Java-Learning",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "description": "Java Basics - Beginner Programs. This repository contains simple programs covering introduction to Java, printing output, comments, semicolons, whitespace, and compilation process.",
+      "composite_score": 32,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 70,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The README provides a clear overview of the repository's purpose and content",
+        "It covers essential beginner topics in Java programming such as syntax, compiling, execution, and I/O",
+        "It includes key concepts like comments, semicolons, whitespace, and curly braces"
+      ],
+      "weaknesses": [
+        "The README does not mention any advanced topics or projects, suggesting the content might be too basic for some learners",
+        "There is no mention of data structures, algorithms, or object-oriented programming principles which are crucial in Java",
+        "Lack of real-world examples or problems to solve could make the learning experience less engaging",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Java-learning-",
+      "repo_url": "https://github.com/Shylesh1640/Java-learning-",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 29,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 45,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The title provides a clear indication of the project's purpose",
+        "The repository is well-organized with a clean structure"
+      ],
+      "weaknesses": [
+        "There is a lack of detailed explanation about what this Java learning project entails",
+        "No information about prerequisites, goals or expected outcomes for the learner",
+        "No technical depth provided on the specific topics covered in the project",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Javascript-Learning-",
+      "repo_url": "https://github.com/Shylesh1640/Javascript-Learning-",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 27,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Javascript-Projects-",
+      "repo_url": "https://github.com/Shylesh1640/Javascript-Projects-",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 24,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Java_Learnings",
+      "repo_url": "https://github.com/Shylesh1640/Java_Learnings",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "description": "Learning java with the help  of AI Tools",
+      "composite_score": 33,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 72,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Clear and well-structured roadmap for learning Java",
+        "Includes a variety of topics from basics to advanced concepts",
+        "Provides links to author's LinkedIn and GitHub profiles"
+      ],
+      "weaknesses": [
+        "The current status is not updated for completed topics",
+        "Some code snippets or exercises might be missing",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Learning-Data-Analysis-",
+      "repo_url": "https://github.com/Shylesh1640/Learning-Data-Analysis-",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 29,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 47,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Understands the basics of data analysis",
+        "Demonstrates a good effort in learning",
+        "Shows potential for growth in technical skills"
+      ],
+      "weaknesses": [
+        "Lacks proficiency in specific tools and libraries",
+        "Needs more practice to improve efficiency",
+        "Needs guidance on best practices in data analysis",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "MCP-Server",
+      "repo_url": "https://github.com/Shylesh1640/MCP-Server",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 30,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 126,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "miniprojectbuilder",
+      "repo_url": "https://github.com/Shylesh1640/miniprojectbuilder",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 22,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 0,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "README lacks depth",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "my-Portfolio",
+      "repo_url": "https://github.com/Shylesh1640/my-Portfolio",
+      "language": "HTML",
+      "stars": 4,
+      "forks": 0,
+      "description": null,
+      "composite_score": 31,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 40,
+        "readme": 0,
+        "project_value": 8,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "README lacks depth"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "My_Deep_ML_learnings",
+      "repo_url": "https://github.com/Shylesh1640/My_Deep_ML_learnings",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "description": "Learning Deep_ML of Solving Problem's ",
+      "composite_score": 27,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 30,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "README lacks depth",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "netflix-movie-pandas",
+      "repo_url": "https://github.com/Shylesh1640/netflix-movie-pandas",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "description": "Netflix Movie Dataset using pandas",
+      "composite_score": 34,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 20,
+        "readme": 47,
+        "project_value": 6,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Clear and concise title",
+        "Brief project description",
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "Lack of detail in the README",
+        "No technical depth provided"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Node-js-",
+      "repo_url": "https://github.com/Shylesh1640/Node-js-",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 53,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 80,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 100,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Phrama-Ai",
+      "repo_url": "https://github.com/Shylesh1640/Phrama-Ai",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 34,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 77,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Clear problem statement",
+        "Well-defined solution and features",
+        "Detailed tech stack",
+        "Includes a live demo link"
+      ],
+      "weaknesses": [
+        "No mention of testing or validation processes",
+        "Lack of information about scalability and performance considerations",
+        "The readme does not provide any insights into the development roadmap, team, or timeline",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "portfolio",
+      "repo_url": "https://github.com/Shylesh1640/portfolio",
+      "language": "HTML",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 30,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 40,
+        "readme": 0,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "README lacks depth"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Predicting-Student-Test-Scores",
+      "repo_url": "https://github.com/Shylesh1640/Predicting-Student-Test-Scores",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 28,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 20,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Python-3-days-Bootcamp",
+      "repo_url": "https://github.com/Shylesh1640/Python-3-days-Bootcamp",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 24,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Python-Learnings",
+      "repo_url": "https://github.com/Shylesh1640/Python-Learnings",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 40,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 20,
+        "readme": 72,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The README is well-structured and easy to navigate with a clear table of contents.",
+        "Each notebook focuses on a specific topic, making it easier for learners to find what they need.",
+        "The `core python concepts` section provides a comprehensive introduction to various functional programming aspects in Python.",
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [
+        "The README could benefit from a brief explanation of the target audience or prerequisites, ensuring that newcomers understand whether the content is suitable for their level.",
+        "While the table of contents includes libraries such as numpy, pandas, matplotlib, and seaborn, it would be helpful to specify the versions required and any dependencies."
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Python-Projects",
+      "repo_url": "https://github.com/Shylesh1640/Python-Projects",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 41,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 40,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 124,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Rag_Learning",
+      "repo_url": "https://github.com/Shylesh1640/Rag_Learning",
+      "language": "Jupyter Notebook",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 30,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 20,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 20,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Testing infrastructure detected"
+      ],
+      "weaknesses": [],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "React-tutorial-for-beginners",
+      "repo_url": "https://github.com/Shylesh1640/React-tutorial-for-beginners",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 47,
+      "rating": "\u26a0\ufe0f Needs Work",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 0,
+        "readme": 82,
+        "project_value": 4,
+        "deployability": 100,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The repository provides clear and concise information about the project",
+        "The topics covered are relevant to learning React from scratch",
+        "Usage of badges for version control, status, license, and build tool adds professional touch",
+        "Projects are organized into self-contained lessons for easy navigation"
+      ],
+      "weaknesses": [
+        "The content could benefit from more detailed explanations or examples for some topics (e.g., `adding_css`, `clickevents`)",
+        "No installation instructions or prerequisites are provided in the README",
+        "It would be helpful to have a brief overview or roadmap of the entire tutorial at the beginning",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "simple-calculator-",
+      "repo_url": "https://github.com/Shylesh1640/simple-calculator-",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 24,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 15,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Telco-Customer-Churn",
+      "repo_url": "https://github.com/Shylesh1640/Telco-Customer-Churn",
+      "language": "Jupyter Notebook",
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 26,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 30,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [],
+      "weaknesses": [
+        "README lacks depth",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Todo",
+      "repo_url": "https://github.com/Shylesh1640/Todo",
+      "language": "HTML",
+      "stars": 2,
+      "forks": 0,
+      "description": null,
+      "composite_score": 32,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 67,
+        "project_value": 4,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The project has a clear and concise description",
+        "It includes both login functionality and a to-do application",
+        "The readme mentions important features like responsive design, user feedback, light/dark mode toggle, progress tracking, search/filtering, and deletion of tasks",
+        "The project structure is also mentioned"
+      ],
+      "weaknesses": [
+        "No specific details are provided about the CSS used or any libraries utilized for the login system or to-do application",
+        "There's no mention of testing or version control systems",
+        "No information is given about the deployment of the project",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "VibeLens_Caption_Generator",
+      "repo_url": "https://github.com/Shylesh1640/VibeLens_Caption_Generator",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "description": "Caption Genetator",
+      "composite_score": 37,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 60,
+        "testing_ci": 0,
+        "readme": 72,
+        "project_value": 2,
+        "deployability": 20,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "The README provides clear instructions on how to run the application locally",
+        "It includes a link to view the app in AI Studio",
+        "Prerequisites for running the app (Node.js) are specified"
+      ],
+      "weaknesses": [
+        "The technical depth could be improved by providing more details about the dependencies and technologies used in the project",
+        "There is no explanation of what the Gemini API key is or where to obtain one",
+        "It would be beneficial to include information on how to deploy the app once it's running locally",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    },
+    {
+      "repo_name": "Web-Designing",
+      "repo_url": "https://github.com/Shylesh1640/Web-Designing",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "description": null,
+      "composite_score": 30,
+      "rating": "\ud83d\udd34 Weak",
+      "score_breakdown": {
+        "code_structure": 50,
+        "testing_ci": 0,
+        "readme": 52,
+        "project_value": 2,
+        "deployability": 0,
+        "complexity": 50,
+        "security": 80
+      },
+      "strengths": [
+        "Good understanding of HTML/CSS",
+        "Experience with responsive design",
+        "Knowledge of front-end frameworks like React or Angular"
+      ],
+      "weaknesses": [
+        "Needs to improve JavaScript skills",
+        "Lacks experience with back-end development",
+        "Requires more practice in UI/UX design principles",
+        "No tests found"
+      ],
+      "critical_flags": [],
+      "improvement_suggestions": []
+    }
+  ],
+  "hiring_readiness": {
+    "score": 51,
+    "tier": "\u26a0\ufe0f Early Stage",
+    "tier_label": "Real potential; portfolio needs significant work"
+  },
+  "role_scores": {
+    "role_scores": {
+      "ml_engineer": {
+        "score": 100,
+        "fit_label": "High Fit"
+      },
+      "backend_engineer": {
+        "score": 100,
+        "fit_label": "High Fit"
+      },
+      "sre": {
+        "score": 100,
+        "fit_label": "High Fit"
+      }
+    }
+  },
+  "llm_summary": " Title: Executive Summary - Shylesh1640: Highly Skilled Developer with Strong Potential in ML, Backend, and SRE Roles\n\nSummary:\n\nWe are pleased to present a comprehensive review of the profile of our candidate, Shylesh1640. With a Hiring Readiness Score of 51/100 indicating an early stage of development, it is clear that Shylesh possesses significant untapped potential. The primary focus of this candidate's expertise lies in Python programming language, showcasing proficiency in this versatile and widely-used technology.\n\nShylesh's portfolio boasts a diverse range of projects, with the top three being 'Google-Play-Store-Dataset', 'ai-voice-detecto', and 'AQI_Monitoring_System'. These projects demonstrate strong capabilities in machine learning engineering, backend development, and system reliability engineering (SRE). Our analysis indicates a high fit for all three roles with a score of 100 in each category.\n\nWhile Shylesh's skillset is impressive, there are areas that could benefit from further development to maximize their potential. The low Hiring Readiness Score suggests a need for honing soft skills such as communication and teamwork, which are crucial in professional settings. Additionally, expanding knowledge beyond Python may prove beneficial as well. We recommend providing Shylesh with opportunities to enhance these areas, ensuring a successful integration into our dynamic and collaborative work environment. Overall, we believe that Shylesh1640 represents an excellent opportunity for companies seeking talented developers with a strong aptitude for ML, Backend, and SRE roles."
+}
