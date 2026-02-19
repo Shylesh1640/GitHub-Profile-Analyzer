@@ -1,4 +1,4 @@
-# GitHub-Profile-Analyzer (GitSight)
+# GitHub-Profile-Analyzer(GitSight)
 
 **Elite GitHub Profile Analyzer & Hiring Readiness Evaluator**
 
